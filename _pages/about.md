@@ -81,10 +81,11 @@ My research interests primarily lie in **AI Search**, **Reinforcement Learning**
 
 ### 📰 News
 
+- **2025.12**: 🔥 We released a comprehensive survey: **Deep Research: A Systematic Survey**.
 - **2025.9**: 🎉🎉 Two papers are accepted by **NeurIPS 2025**.
 - **2025.8**: 🎉 One paper is accepted by **CIKM 2025**.
 - **2025.7**: 🎉 One paper is accepted by **MM 2025**.
-- **2025.6**: Our *AI Search Paradigm* paper is publicly available.
+- **2025.6**: 🔥 Our *AI Search Paradigm* paper is publicly available.
 - **2025.1**: 🎉🎉 Two first-author papers are accepted by **WWW 2025**.
 - **2024.4**: 🎉 One first-author paper is accepted by **IJCAI 2024**.
 - **2023.9**: I joined **Renmin University of China** to pursue my Ph.D.
