@@ -15,10 +15,10 @@ profile:
 
 selected_papers: true # 这会自动显示你在 _bibliography/papers.bib 里标记为 selected={true} 的论文
 social: true # 自动显示 _config.yml 里配置的社交链接
-email: # 你可以在这里填邮箱，或者在 _config.yml 里统一配置
+email: chenyiqun990321@{ruc.edu.cn, gmail.com} # 你可以在这里填邮箱，或者在 _config.yml 里统一配置
 
 announcements:
-  enabled: false # 暂时关闭自动模块，使用下方的手动列表。如果你想用 fancy 的滚动效果，设为 true 并在 _news/ 文件夹下创建对应文件
+  enabled: false # 暂时关闭自动模块，使用下方的手动列表
   scrollable: true
   limit: 5
 
@@ -32,7 +32,9 @@ My name is **Yiqun Chen** (陈逸群). Currently, I am pursuing my Ph.D. at the 
 
 Before this, I earned my Master’s degree from the **Institute of Automation, Chinese Academy of Sciences (CASIA)**, and my Bachelor’s degree from **Shandong University (SDU)**.
 
-If you are interested in my research or experience, please feel free to contact me.
+Beyond academic research, I actively participate in collaborative projects with leading internet companies, focusing on the construction and optimization of **Search Agents** and **LLM-based Multi-Agent Systems**.
+
+**📢 I am actively seeking a Research Internship for Spring 2026.** If you are interested in my research background or potential collaborations, please feel free to contact me!
 
 ### Research Interests
 
