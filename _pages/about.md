@@ -7,36 +7,50 @@ subtitle: Ph.D. Candidate at <a href='http://ai.ruc.edu.cn/'>GSAI, RUC</a>.
 profile:
   align: right
   image: personal_picture.jpg
-  image_circular: false # 如果你想让照片变圆，设为 true
+  image_circular: false
   more_info: >
-    <p>Gaoling School of AI</p>
+    <p><i class="fas fa-university"></i> Gaoling School of AI</p>
     <p>Renmin University of China</p>
-    <p>Beijing, China</p>
+    <p><i class="fas fa-map-marker-alt"></i> Beijing, China</p>
 
-selected_papers: true # 这会自动显示你在 _bibliography/papers.bib 里标记为 selected={true} 的论文
-social: true # 自动显示 _config.yml 里配置的社交链接
-email: chenyiqun990321@{ruc.edu.cn, gmail.com} # 你可以在这里填邮箱，或者在 _config.yml 里统一配置
+selected_papers: true
+social: true
+email:
 
 announcements:
-  enabled: false # 暂时关闭自动模块，使用下方的手动列表
+  enabled: false
   scrollable: true
   limit: 5
 
 latest_posts:
-  enabled: false # 如果你不写博客，可以先关掉
+  enabled: false
   scrollable: true
   limit: 3
 ---
 
-My name is **Yiqun Chen** (陈逸群). Currently, I am pursuing my Ph.D. at the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), Renmin University of China (RUC), under the guidance of Prof. [Jiaxin Mao](https://sites.google.com/site/maojiaxin/). 
+My name is **Yiqun Chen** (陈逸群). Currently, I am pursuing my Ph.D. at the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), Renmin University of China (RUC), under the guidance of Prof. [Jiaxin Mao](https://sites.google.com/site/maojiaxin/).
 
-Before this, I earned my Master’s degree from the **Institute of Automation, Chinese Academy of Sciences (CASIA)**, and my Bachelor’s degree from **Shandong University (SDU)**.
+### 🏢 Industry Collaboration & Leadership
 
-Beyond academic research, I actively participate in collaborative projects with leading internet companies, focusing on the construction and optimization of **Search Agents** and **LLM-based Multi-Agent Systems**.
+Beyond academic research, I maintain close collaborations with leading tech giants. My track record includes impactful projects with:
+* **Baidu** (Search Dept. & Intelligent Cloud)
+* **XiaoHongShu** (AI Search)
+* **ByteDance** (Lark/Feishu)
 
-**📢 I am actively seeking a Research Internship for Spring 2026.** If you are interested in my research background or potential collaborations, please feel free to contact me!
+My work primarily focuses on **Search Agents** and the optimization of **LLM-based Multi-Agent Systems**. 
 
-### Research Interests
+🚀 **From Contributor to Leader**: Throughout these projects, my role has evolved from a core contributor to a **Team Lead**. This journey has equipped me with extensive practical experience in large-scale model training, system design, and cross-team collaboration. 
+✨ *Stay tuned! A wave of exciting research results and products from these collaborations will be released soon.*
+
+### 👨‍🎓 Job Market: Fall 2026 Internship
+
+As a prospective Ph.D. graduate (Class of 2027), I am actively seeking a **Fall 2026 Internship** (targeting the 2027 campus recruitment season).
+
+🤝 **Why me?** I bridge the gap between cutting-edge academic research and industrial-scale application. If you are looking for someone who can bring unique perspectives and proven execution to your team, please **contact me**!
+
+---
+
+### 🔬 Research Interests
 
 My research interests primarily lie in **AI Search**, **Information Retrieval**, and **Reinforcement Learning**:
 
@@ -52,7 +66,7 @@ My research interests primarily lie in **AI Search**, **Information Retrieval**,
 
 ---
 
-### Education
+### 🎓 Education
 
 * **Ph.D. Candidate in Artificial Intelligence** *Gaoling School of Artificial Intelligence (GSAI), Renmin University of China (RUC)* 2023 - 2027 (Expected)
 
@@ -62,7 +76,7 @@ My research interests primarily lie in **AI Search**, **Information Retrieval**,
 
 ---
 
-### News
+### 📰 News
 
 - **2025.9**: 🎉🎉 Two papers are accepted by **NeurIPS 2025**.
 - **2025.8**: 🎉 One paper is accepted by **CIKM 2025**.
