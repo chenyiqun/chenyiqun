@@ -12,10 +12,16 @@ profile:
     <p><i class="fas fa-university"></i> Gaoling School of AI</p>
     <p>Renmin University of China</p>
     <p><i class="fas fa-map-marker-alt"></i> Beijing, China</p>
+    <hr>
+    <div style="text-align: left; margin-top: 10px;">
+      <p><i class="fas fa-envelope"></i> chenyiqun990321<br>@{ruc.edu.cn, gmail.com}</p>
+      <p><i class="fab fa-weixin"></i> 13853687820</p>
+      <p><i class="fab fa-twitter"></i> <a href="https://twitter.com/chenyiqun223336">@chenyiqun223336</a></p>
+    </div>
 
-selected_papers: true
+selected_papers: false
 social: true
-email:
+email: chenyiqun990321<br>@{ruc.edu.cn, gmail.com}
 
 announcements:
   enabled: false
