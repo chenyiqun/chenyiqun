@@ -35,7 +35,7 @@ My name is **Yiqun Chen** (陈逸群). Currently, I am pursuing my Ph.D. at the 
 Beyond academic research, I maintain close collaborations with leading tech giants. My track record includes impactful projects with:
 * **Baidu** (Search Dept. & Intelligent Cloud)
 * **XiaoHongShu** (AI Search)
-* **ByteDance** (Lark/Feishu)
+* **ByteDance** (Feishu)
 
 My work primarily focuses on **Search Agents** and the optimization of **LLM-based Multi-Agent Systems**. 
 
