@@ -2,33 +2,71 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. Candidate at <a href='http://ai.ruc.edu.cn/'>GSAI, RUC</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: personal_picture.jpg
+  image_circular: false # 如果你想让照片变圆，设为 true
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Gaoling School of AI</p>
+    <p>Renmin University of China</p>
+    <p>Beijing, China</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true # 这会自动显示你在 _bibliography/papers.bib 里标记为 selected={true} 的论文
+social: true # 自动显示 _config.yml 里配置的社交链接
+email: # 你可以在这里填邮箱，或者在 _config.yml 里统一配置
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false # 暂时关闭自动模块，使用下方的手动列表。如果你想用 fancy 的滚动效果，设为 true 并在 _news/ 文件夹下创建对应文件
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false # 如果你不写博客，可以先关掉
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is **Yiqun Chen** (陈逸群). Currently, I am pursuing my Ph.D. at the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), Renmin University of China (RUC), under the guidance of Prof. [Jiaxin Mao](https://sites.google.com/site/maojiaxin/). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before this, I earned my Master’s degree from the **Institute of Automation, Chinese Academy of Sciences (CASIA)**, and my Bachelor’s degree from **Shandong University (SDU)**.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+If you are interested in my research or experience, please feel free to contact me.
+
+### Research Interests
+
+My research interests primarily lie in **AI Search**, **Information Retrieval**, and **Reinforcement Learning**:
+
+* **AI Search**: 
+    * Retrieval-Augmented Generation (RAG)
+    * Agentic Search & Deep Research
+* **Information Retrieval (IR)**: 
+    * Large Language Models for Ranking (LLM4Ranking)
+    * Search Result Diversification (SRD)
+    * Application of Reinforcement Learning for IR
+* **Reinforcement Learning**: 
+    * Multi-Agent Reinforcement Learning (MARL)
+
+---
+
+### Education
+
+* **Ph.D. Candidate in Artificial Intelligence** *Gaoling School of Artificial Intelligence (GSAI), Renmin University of China (RUC)* 2023 - 2027 (Expected)
+
+* **M.Sc. in Pattern Recognition and Intelligent Systems** *Institute of Automation, Chinese Academy of Sciences (CASIA)* 2020 - 2023
+
+* **B.Sc. in Automation** *Shandong University (SDU)* 2016 - 2020
+
+---
+
+### News
+
+- **2025.9**: 🎉🎉 Two papers are accepted by **NeurIPS 2025**.
+- **2025.8**: 🎉 One paper is accepted by **CIKM 2025**.
+- **2025.7**: 🎉 One paper is accepted by **MM 2025**.
+- **2025.6**: Our *AI Search Paradigm* paper is publicly available.
+- **2025.1**: 🎉🎉 Two first-author papers are accepted by **WWW 2025**.
+- **2024.4**: 🎉 One first-author paper is accepted by **IJCAI 2024**.
+- **2023.9**: I joined **Renmin University of China** to pursue my Ph.D.
+- **2023.4**: I joined the Search Department of **Baidu Inc.** as an algorithm intern.
