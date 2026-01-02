@@ -46,23 +46,24 @@ My work primarily focuses on **Search Agents** and the optimization of **LLM-bas
 
 As a prospective Ph.D. graduate (Class of 2027), I am actively seeking a **Fall 2026 Internship** (targeting the 2027 campus recruitment season).
 
-🤝 **Why me?** I bridge the gap between cutting-edge academic research and industrial-scale application. If you are looking for someone who can bring unique perspectives and proven execution to your team, please **contact me**!
+🤝 **Why me?** My mission is to build **robust, scalable Multi-Agent paradigms and efficient training methodologies**. I prioritize **practical utility over theoretical narratives** (rejecting mere "storytelling"). I am dedicated to bringing **tangible performance gains** and **genuine, deployable innovation** to industrial scenarios.
 
+If you are looking for a researcher who focuses on **what actually works**, please **contact me**!
 ---
 
 ### 🔬 Research Interests
 
-My research interests primarily lie in **AI Search**, **Information Retrieval**, and **Reinforcement Learning**:
+My research interests primarily lie in **AI Search**, **Reinforcement Learning**, and **Information Retrieval**:
 
 * **AI Search**: 
     * Retrieval-Augmented Generation (RAG)
     * Agentic Search & Deep Research
+* **Reinforcement Learning**:
+    * General LLM-based Multi-Agent Optimization Framework
+    * Multi-Agent Reinforcement Learning (MARL)
 * **Information Retrieval (IR)**: 
     * Large Language Models for Ranking (LLM4Ranking)
-    * Search Result Diversification (SRD)
-    * Application of Reinforcement Learning for IR
-* **Reinforcement Learning**: 
-    * Multi-Agent Reinforcement Learning (MARL)
+    * Application of Reinforcement Learning for IR (e.g., Diversified Ranking)
 
 ---
 
