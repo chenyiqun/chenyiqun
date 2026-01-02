@@ -50,6 +50,7 @@ As a prospective Ph.D. graduate (Class of 2027), I am actively seeking a **Fall 
 🤝 **Why me?** My mission is to build **robust, scalable Multi-Agent paradigms and efficient training methodologies**. I prioritize **practical utility over theoretical narratives** (rejecting mere "storytelling"). I am dedicated to bringing **tangible performance gains** and **genuine, deployable innovation** to industrial scenarios.
 
 If you are looking for a researcher who focuses on **what actually works**, please **contact me**!
+
 ---
 
 ### 🔬 Research Interests
