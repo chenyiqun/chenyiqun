@@ -40,6 +40,7 @@ Beyond academic research, I maintain close collaborations with leading tech gian
 My work primarily focuses on **Search Agents** and the optimization of **LLM-based Multi-Agent Systems**. 
 
 🚀 **From Contributor to Leader**: Throughout these projects, my role has evolved from a core contributor to a **Team Lead**. This journey has equipped me with extensive practical experience in RL for model training, system design, and cross-team collaboration. 
+
 ✨ *Stay tuned! A wave of exciting research results and products from these collaborations will be released soon.*
 
 ### 👨‍🎓 Job Market: Fall 2026 Internship
