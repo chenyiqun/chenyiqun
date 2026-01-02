@@ -19,7 +19,7 @@ profile:
       <p><i class="fab fa-twitter"></i> <a href="https://twitter.com/chenyiqun223336">@chenyiqun223336</a></p>
     </div>
 
-selected_papers: true # 注意：我帮你把这里改回 true 了，否则首页不会显示你选中的论文
+selected_papers: true
 social: true
 email: 
 
@@ -52,16 +52,21 @@ My research interests primarily lie in **AI Search**, **Reinforcement Learning**
 
 ### 🏢 Industry Collaboration & Leadership
 
-Beyond academic research, I maintain close collaborations with leading tech giants. My track record includes impactful projects with:
+**🚀 Recent Focus: Search Agents & Large-Scale MAS**
+
+Recently, I maintain close collaborations with leading tech giants, focusing on the construction and optimization of **Search Agents** and **LLM-based Multi-Agent Systems**. My track record includes impactful projects with:
 * **Baidu** (Search Dept. & Intelligent Cloud)
 * **XiaoHongShu** (AI Search)
 * **ByteDance** (Feishu)
 
-My work primarily focuses on **Search Agents** and the optimization of **LLM-based Multi-Agent Systems**. 
+*From Contributor to Leader*: Throughout these projects, my role has evolved from a core contributor to a **Team Lead**. This journey has equipped me with extensive practical experience in system design and cross-team collaboration. 
+*(Stay tuned! A wave of exciting research results and products from these collaborations will be released soon.)*
 
-🚀 **From Contributor to Leader**: Throughout these projects, my role has evolved from a core contributor to a **Team Lead**. This journey has equipped me with extensive practical experience in RL for model training, system design, and cross-team collaboration. 
+**🌟 Previous Research Internships**
 
-✨ *Stay tuned! A wave of exciting research results and products from these collaborations will be released soon.*
+Prior to my current focus, I gained solid research experience in **Reinforcement Learning** and **Recommendation Systems** at top-tier industrial labs:
+* **Huawei Noah's Ark Lab** (Decision Making & Reasoning Lab): Research Intern, focusing on *Multi-Agent Reinforcement Learning (MARL)*.
+* **DiDi Chuxing**: Worked on *Pick-up/Drop-off Location Recommendation* algorithms.
 
 ### 👨‍🎓 Job Market: Fall 2026 Internship
 
