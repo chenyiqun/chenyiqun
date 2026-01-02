@@ -20,7 +20,7 @@ profile:
     </div>
 
 selected_papers: true
-social: true
+social: false
 email: 
 
 announcements:
