@@ -19,9 +19,9 @@ profile:
       <p><i class="fab fa-twitter"></i> <a href="https://twitter.com/chenyiqun223336">@chenyiqun223336</a></p>
     </div>
 
-selected_papers: false
+selected_papers: true # 注意：我帮你把这里改回 true 了，否则首页不会显示你选中的论文
 social: true
-email: chenyiqun990321<br>@{ruc.edu.cn, gmail.com}
+email: 
 
 announcements:
   enabled: false
@@ -35,6 +35,20 @@ latest_posts:
 ---
 
 My name is **Yiqun Chen** (陈逸群). Currently, I am pursuing my Ph.D. at the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), Renmin University of China (RUC), under the guidance of Prof. [Jiaxin Mao](https://sites.google.com/site/maojiaxin/).
+
+### 🔬 Research Interests
+
+My research interests primarily lie in **AI Search**, **Reinforcement Learning**, and **Information Retrieval**:
+
+* **AI Search**: 
+    * Retrieval-Augmented Generation (RAG)
+    * Agentic Search & Deep Research
+* **Reinforcement Learning**:
+    * General LLM-based Multi-Agent Optimization Framework
+    * Multi-Agent Reinforcement Learning (MARL)
+* **Information Retrieval (IR)**: 
+    * Large Language Models for Ranking (LLM4Ranking)
+    * Application of Reinforcement Learning for IR (e.g., Sequential Decision Making, RLHF)
 
 ### 🏢 Industry Collaboration & Leadership
 
@@ -56,22 +70,6 @@ As a prospective Ph.D. graduate (Class of 2027), I am actively seeking a **Fall 
 🤝 **Why me?** My mission is to build **robust, scalable Multi-Agent paradigms and efficient training methodologies**. I prioritize **practical utility over theoretical narratives** (rejecting mere "storytelling"). I am dedicated to bringing **tangible performance gains** and **genuine, deployable innovation** to industrial scenarios.
 
 If you are looking for a researcher who focuses on **what actually works**, please **contact me**!
-
----
-
-### 🔬 Research Interests
-
-My research interests primarily lie in **AI Search**, **Reinforcement Learning**, and **Information Retrieval**:
-
-* **AI Search**: 
-    * Retrieval-Augmented Generation (RAG)
-    * Agentic Search & Deep Research
-* **Reinforcement Learning**:
-    * General LLM-based Multi-Agent Optimization Framework
-    * Multi-Agent Reinforcement Learning (MARL)
-* **Information Retrieval (IR)**: 
-    * Large Language Models for Ranking (LLM4Ranking)
-    * Application of Reinforcement Learning for IR (e.g., Diversified Ranking)
 
 ---
 
