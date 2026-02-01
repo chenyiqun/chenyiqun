@@ -99,3 +99,8 @@ If you are looking for a researcher who focuses on **what actually works**, plea
 - **2024.4**: 🎉 One first-author paper is accepted by **IJCAI 2024**.
 - **2023.9**: I joined **Renmin University of China** to pursue my Ph.D.
 - **2023.4**: I joined the Search Department of **Baidu Inc.** as an algorithm intern.
+
+
+<br>
+
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=zBpgQ_7AJz1gzN1JNDw13I7FLZRrIJ_6uOS16Qh4BKQ&cl=ffffff&w=a"></script>
