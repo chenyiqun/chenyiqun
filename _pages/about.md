@@ -40,15 +40,16 @@ My name is **Yiqun Chen** (陈逸群). Currently, I am pursuing my Ph.D. at the 
 
 My research interests primarily lie in **AI Search**, **Reinforcement Learning**, and **Information Retrieval**:
 
+* **LLM Agent & Reinforcement Learning**:
+    * General LLM-based Multi-Agent Optimization Framework
+    * Data Synthesis & Agent Memory & Evaluation/Reward
+    * Multi-Agent Reinforcement Learning (MARL)
 * **AI Search**: 
     * Retrieval-Augmented Generation (RAG)
-    * Agentic Search & Deep Research
-* **Reinforcement Learning**:
-    * General LLM-based Multi-Agent Optimization Framework
-    * Multi-Agent Reinforcement Learning (MARL)
+    * Agentic Search & Deep Search/Research
 * **Information Retrieval (IR)**: 
     * Large Language Models for Ranking (LLM4Ranking)
-    * Application of Reinforcement Learning for IR (e.g., Sequential Decision Making, RLHF)
+    * Application of Reinforcement Learning for IR (e.g., RL for Diversified Search)
 
 ### 🏢 Industry Collaboration & Leadership
 
