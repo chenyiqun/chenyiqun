@@ -59,7 +59,7 @@ Recently, I have maintained close collaborations with leading tech companies on 
 
 **🌟 Previous Internships**
 My internship experiences include:
-* **XiaoHongShu** (Dots Agent & AI Search) (*Ace Top Intern Program*): End-to-end Multi-Agent RL optimization and full-link Agent research.
+* **XiaoHongShu** (Dots Agent & AI Search) (✨**Ace Top Intern Program**): End-to-end Multi-Agent RL optimization and full-link Agent research.
 * **Baidu** (Search Dept. & Intelligent Cloud): Agentic Search, Dumate Agent research.
 * **ByteDance** (Feishu/Lark): Memory-augmented AI search.
 * **Huawei** (Noah's Ark Decision Making & Reasoning Lab): Multi-Agent Reinforcement Learning (MARL).
