@@ -53,7 +53,7 @@ My research interests primarily lie in **Multi-Agent Reinforcement Learning** an
 
 ### 🏢 Industry Collaboration & Leadership
 
-**🚀 Recent Focus: Search Agents & Large-Scale MAS**
+**🚀 Recent Focus: Multi-Agent/Agent-Swarm Joint Optimization (RL)**
 
 Recently, I have maintained close collaborations with leading tech companies on **LLM-based Multi-Agent RL**, **leading the development of UnityMAS-O**, a Ray + veRL-based multi-agent reinforcement learning framework that supports customizable agent workflows, flexible agent-to-model mapping, and scalable distributed PPO optimization across shared, partially shared, or independent models.
 
