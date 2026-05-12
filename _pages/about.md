@@ -38,7 +38,7 @@ My name is **Yiqun Chen** (陈逸群). Currently, I am pursuing my Ph.D. at the 
 
 ### 🔬 Research Interests
 
-My research interests primarily lie in **AI Search**, **Reinforcement Learning**, and **Information Retrieval**:
+My research interests primarily lie in **Multi-Agent Reinforcement Learning** and **Agentic Search**:
 
 * **LLM Agent & Reinforcement Learning**:
     * General LLM-based Multi-Agent Optimization Framework
@@ -55,25 +55,24 @@ My research interests primarily lie in **AI Search**, **Reinforcement Learning**
 
 **🚀 Recent Focus: Search Agents & Large-Scale MAS**
 
-Recently, I maintain close collaborations with leading tech giants, focusing on the construction and optimization of **Search Agents** and **LLM-based Multi-Agent Systems**. My track record includes impactful projects with:
-* **Baidu** (Search Dept. & Intelligent Cloud)
-* **XiaoHongShu** (AI Search)
-* **ByteDance** (Feishu)
+Recently, I have maintained close collaborations with leading tech companies on **LLM-based Multi-Agent RL**, **leading the development of UnityMAS-O**, a Ray + veRL-based multi-agent reinforcement learning framework that supports customizable agent workflows, flexible agent-to-model mapping, and scalable distributed PPO optimization across shared, partially shared, or independent models.
+
+**🌟 Previous Internships**
+My internship experiences include:
+* **XiaoHongShu** (Dots Agent & AI Search) (*Ace Top Intern Program*): End-to-end Multi-Agent RL optimization and full-link Agent research.
+* **Baidu** (Search Dept. & Intelligent Cloud): Agentic Search, Dumate Agent research.
+* **ByteDance** (Feishu/Lark): Memory-augmented AI search.
+* **Huawei** (Noah's Ark Decision Making & Reasoning Lab): Multi-Agent Reinforcement Learning (MARL).
+* **DiDi Chuxing** (Ride-hailing Dept.): Pick-up/Drop-off location recommendation.
 
 *From Contributor to Leader*: Throughout these projects, my role has evolved from a core contributor to a **Team Lead**. This journey has equipped me with extensive practical experience in system design and cross-team collaboration. 
 *(Stay tuned! A wave of exciting research results and products from these collaborations will be released soon.)*
-
-**🌟 Previous Research Internships**
-
-Prior to my current focus, I gained solid research experience in **Reinforcement Learning** and **Recommendation Systems** at top-tier industrial labs:
-* **Huawei Noah's Ark Lab** (Decision Making & Reasoning Lab): Research Intern, focusing on *Multi-Agent Reinforcement Learning (MARL)*.
-* **DiDi Chuxing**: Worked on *Pick-up/Drop-off Location Recommendation* algorithms.
 
 ### 👨‍🎓 Job Market: Fall 2026 Internship
 
 As a prospective Ph.D. graduate (Class of 2027), I am actively seeking a **Fall 2026 Internship** (targeting the 2027 campus recruitment season).
 
-🤝 **Why me?** My mission is to build **robust, scalable Multi-Agent paradigms and efficient training methodologies**. I prioritize **practical utility over theoretical narratives** (rejecting mere "storytelling"). I am dedicated to bringing **tangible performance gains** and **genuine, deployable innovation** to industrial scenarios.
+🤝 **Why me?** My mission is to build **robust, scalable Multi-Agent paradigms and efficient infra/training framework**. I prioritize **practical utility over theoretical narratives** (rejecting mere "storytelling"). I am dedicated to bringing **tangible performance gains** and **genuine, deployable innovation** to industrial scenarios.
 
 If you are looking for a researcher who focuses on **what actually works**, please **contact me**!
 
