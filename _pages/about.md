@@ -41,7 +41,7 @@ My name is **Yiqun Chen** (陈逸群). Currently, I am pursuing my Ph.D. at the 
 My research interests primarily lie in **Multi-Agent Reinforcement Learning** and **Agentic Search**:
 
 * **LLM Agent & Reinforcement Learning**:
-    * General LLM-based Multi-Agent Optimization Framework
+    * [General LLM-based Multi-Agent Optimization Framework (UnityMAS-O)](https://arxiv.org/pdf/2605.26646)
     * Data Synthesis & Agent Memory & Evaluation/Reward
     * Multi-Agent Reinforcement Learning (MARL)
 * **AI Search**: 
@@ -55,7 +55,7 @@ My research interests primarily lie in **Multi-Agent Reinforcement Learning** an
 
 **🚀 Recent Focus: Multi-Agent/Agent-Swarm Joint Optimization (RL)**
 
-Recently, I have maintained close collaborations with leading tech companies on **LLM-based Multi-Agent RL**, **leading the development of UnityMAS-O**, a Ray + veRL-based multi-agent reinforcement learning framework that supports customizable agent workflows, flexible agent-to-model mapping, and scalable distributed PPO optimization across shared, partially shared, or independent models.
+Recently, I have maintained close collaborations with leading tech companies on **LLM-based Multi-Agent RL**, **leading the development of [UnityMAS-O](https://arxiv.org/pdf/2605.26646)**, a Ray + veRL-based multi-agent reinforcement learning framework that supports customizable agent workflows, flexible agent-to-model mapping, and scalable distributed PPO optimization across shared, partially shared, or independent models.
 
 **🌟 Previous Internships**
 My internship experiences include:
@@ -65,8 +65,6 @@ My internship experiences include:
 * **Huawei** (Noah's Ark Decision Making & Reasoning Lab): Multi-Agent Reinforcement Learning (MARL).
 * **DiDi Chuxing** (Ride-hailing Dept.): Pick-up/Drop-off location recommendation.
 
-*From Contributor to Leader*: Throughout these projects, my role has evolved from a core contributor to a **Team Lead**. This journey has equipped me with extensive practical experience in system design and cross-team collaboration. 
-*(Stay tuned! A wave of exciting research results and products from these collaborations will be released soon.)*
 
 ### 👨‍🎓 Job Market: Fall 2026 Internship
 
