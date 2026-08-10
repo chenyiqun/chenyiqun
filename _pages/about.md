@@ -38,18 +38,15 @@ My name is **Yiqun Chen** (陈逸群). Currently, I am pursuing my Ph.D. at the 
 
 ### 🔬 Research Interests
 
-My research interests primarily lie in **Multi-Agent Reinforcement Learning** and **Agentic Search**:
+My research interests primarily lie in **Multi-Agent Co-Training (RL)** and **General Multi-Agent Optimization**:
 
 * **LLM Agent & Reinforcement Learning**:
     * [General LLM-based Multi-Agent Optimization Framework (UnityMAS-O)](https://arxiv.org/pdf/2605.26646)
-    * Data Synthesis & Agent Memory & Evaluation/Reward
+    * Data & Harness & Evaluation/Reward System
     * Multi-Agent Reinforcement Learning (MARL)
 * **AI Search**: 
     * Retrieval-Augmented Generation (RAG)
     * Agentic Search & Deep Search/Research
-* **Information Retrieval (IR)**: 
-    * Large Language Models for Ranking (LLM4Ranking)
-    * Application of Reinforcement Learning for IR (e.g., RL for Diversified Search)
 
 ### 🏢 Industry Collaboration & Leadership
 
@@ -59,6 +56,7 @@ Recently, I have maintained close collaborations with leading tech companies on 
 
 **🌟 Previous Internships**
 My internship experiences include:
+* **Tencent** (✨Hunyuan LLM / Qingyun Program): LLM-based Multi-Agent System optimization.
 * **XiaoHongShu** (Dots Agent & AI Search) (✨**Ace Top Intern Program**): End-to-end Multi-Agent RL optimization and full-link Agent research.
 * **Baidu** (Search Dept. & Intelligent Cloud): Agentic Search, Dumate Agent research.
 * **ByteDance** (Feishu/Lark): Memory-augmented AI search.
