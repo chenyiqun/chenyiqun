@@ -86,6 +86,7 @@ If you are looking for a researcher who focuses on **what actually works**, plea
 
 ### 📰 News
 
+- **2026.8**: 🎉 One paper is accepted by **EMNLP 2026**.
 - **2026.5**: 🎉 One paper is accepted by **ICML 2026**.
 - **2025.12**: 🔥 We released a comprehensive survey: **Deep Research: A Systematic Survey**.
 - **2025.9**: 🎉🎉 Two papers are accepted by **NeurIPS 2025**.
