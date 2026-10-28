@@ -87,6 +87,7 @@ If you are looking for a researcher who focuses on **what actually works**, plea
 ### 📰 News
 
 - **2026.9**: I was awarded the **National Scholarship for Doctoral Students**.
+- **2026.9**: 🎉 One paper is accepted by **NeurIPS 2026**.
 - **2026.8**: 🎉 One paper is accepted by **EMNLP 2026**.
 - **2026.7**: I joined Tencent's **Hunyuan LLM** team as a **Qingyun Program** intern.
 - **2026.5**: 🎉 One paper is accepted by **ICML 2026**.
